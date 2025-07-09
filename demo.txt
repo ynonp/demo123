@@ -1,0 +1,7 @@
+function x() {
+	return 5;
+}
+
+function y() {
+	return 7;
+}
