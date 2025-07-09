@@ -5,3 +5,9 @@ function x() {
 function y() {
 	return 7;
 }
+
+function z() {
+	return 9;
+}
+
+
