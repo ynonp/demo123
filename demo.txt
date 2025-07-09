@@ -6,10 +6,6 @@ function y() {
 	return 99;
 }
 
-function z() {
-	return 9;
-}
-
 function a() {
 	return 5;
 }
