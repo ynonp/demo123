@@ -1,3 +1,11 @@
+function x() {
+	return 5;
+}
+
+function y() {
+	return 99;
+}
+
 function z() {
 	return 9;
 }
