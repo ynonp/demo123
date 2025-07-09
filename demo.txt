@@ -10,4 +10,8 @@ function z() {
 	return 9;
 }
 
+function a() {
+	return 5;
+}
+
 
