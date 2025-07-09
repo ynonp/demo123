@@ -3,7 +3,7 @@ function x() {
 }
 
 function y() {
-	return 7;
+	return 99;
 }
 
 function z() {
